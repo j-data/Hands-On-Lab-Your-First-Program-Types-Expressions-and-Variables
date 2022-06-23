@@ -1,10 +1,5 @@
-# Hands-On Lab: Your First Python Program Data_Types-Expressions-and-Variables
+# Hands-On Labs
 
-This is the first hands-on lab in the course
+This repository contains the practice files used throughout the courses that are part of the Python for Data Science, AI & Development: IBM Professional Data Engineer Certificate
 
-Objectives include:
-
-- Write basic code in Python
-- Work with various types of data in Python
-- Convert the data from one type to another
-- Use expressions and variables to perform operations
+There's a separate folder for each lab practice.
