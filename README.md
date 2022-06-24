@@ -4,9 +4,8 @@ This repository contains the practice files used throughout the courses that are
 
 This repository covers:
 - Python Programming Fundamentals:
-  ...Classify conditions and branching by identifying structured scenarios with outputs.
-  
-  ...Work with objects and classes.
+  - Classify conditions and branching by identifying structured scenarios with outputs.
+  - Work with objects and classes.
   
   ...Explain objects and classes by identifying data types and creating a class.
   
