@@ -3,7 +3,7 @@
 This repository contains the practice files used throughout the courses that are part of the Python for Data Science, AI & Development: IBM Professional Data Engineer Certificate.
 
 The lab practices provides hands-on learning on these modules:
-- Python Basics:
+- Python Basics: This module teaches the basics of Python and begins by exploring some of the different data types such as integers, real numbers, and strings. Continue with the module and learn how to use expressions in mathematical operations, store values in variables, and the many different ways to manipulate strings. This lab practice has the following Learning objectives:
 
   - Demonstrate an understanding of types in Python by converting or casting data types such as strings, floats, and integers.
   - Interpret variables and solve expressions by applying mathematical operations.
@@ -11,7 +11,7 @@ The lab practices provides hands-on learning on these modules:
   - Build a program in JupyterLab to demonstrate your knowledge of types, expressions, and variables.
   - Work with, manipulate, and perform operations on strings in Python
 
-- Python Data Structures:
+- Python Data Structures: This module begins a journey into Python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable. Next learn about dictionaries and how they function by storing data in pairs of keys and values, and end with Python sets to learn how this type of collection can appear in any order and will only contain unique elements. This lab practice has the following Learning objectives:
   - Describe and manipulate tuple combinations and list data structures.
   - Execute basic tuple operations in Python.
   - Perform list operations in Python.
@@ -20,7 +20,7 @@ The lab practices provides hands-on learning on these modules:
   - Create sets to demonstrate understanding of the differences between sets, tuples, and lists.
   - Work with sets in Python, including operations and logic operations
 
-- Python Programming Fundamentals:
+- Python Programming Fundamentals: This module discusses Python fundamentals and begins with the concepts of conditions and branching. Continue through the module and learn how to implement loops to iterate over sequences, create functions to perform a specific task, perform exception handling to catch errors, and how classes are needed to create objects. This lab practice has the following Learning objectives:
   - Classify conditions and branching by identifying structured scenarios with outputs.
   - Work with objects and classes.
   - Explain objects and classes by identifying data types and creating a class.
@@ -31,7 +31,7 @@ The lab practices provides hands-on learning on these modules:
   - Work with condition statements in Python, including operators and branching.
   - Create and use loop statements in Python.
   
-- Working with Data in Python:
+- Working with Data in Python: This module explains the basics of working with data in Python and begins the path with learning how to read and write files. Continue the module and uncover the best Python libraries that will aid in data manipulation and mathematical operations. This lab practice has the following Learning objectives:
   - Explain how Pandas use data frames.
   - Use Pandas for library and data analysis by using commands.
   - Read text files using Python libraries including open and with.
